@@ -1,1 +1,1 @@
-Project for the operative systems class
+Project for the multimedia networks class
